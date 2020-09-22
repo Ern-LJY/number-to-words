@@ -10,5 +10,5 @@ How to use:
 4. Enjoy!
 
 I was inspired by https://www.youtube.com/watch?v=PIeiiceWe_w.
-This is coded using Python and it took me 1.5 hours.
-Pretty rusty at Python.
+\nThis is coded using Python and it took me 1.5 hours.
+\nPretty rusty at Python.
