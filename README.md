@@ -8,6 +8,8 @@ How to use:
 2. Using cmd, change directory to Step1
 3. Type "main.py"
 4. Enjoy!
+
+
 <br /><br />
 I was inspired by https://www.youtube.com/watch?v=PIeiiceWe_w.
 <br/>This is coded using Python and it took me 1.5 hours.
