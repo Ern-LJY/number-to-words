@@ -8,7 +8,7 @@ How to use:
 2. Using cmd, change directory to Step1
 3. Type "main.py"
 4. Enjoy!
-
+<br /><br />
 I was inspired by https://www.youtube.com/watch?v=PIeiiceWe_w.
-\nThis is coded using Python and it took me 1.5 hours.
-\nPretty rusty at Python.
+<br/>This is coded using Python and it took me 1.5 hours.
+<br/>Pretty rusty at Python.
